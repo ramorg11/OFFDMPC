@@ -24,7 +24,7 @@ capabilities, such as embedded systems. We validate our experiments in
 a simulation environment, demonstrating that our model can effectively
 minimize the metric error between real and played trajectories.
 
-## Keywords: 
+## Keywords
 visual navigation, mobile robots, MPC, control, deep learning.
 
 ## Training VuNet
