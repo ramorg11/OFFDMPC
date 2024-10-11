@@ -1,0 +1,9 @@
+image_dir: "/home/Documents/offline_deep_mpc/dataset/images"
+velocity_file: "/home/Documents/offline_deep_mpc/dataset/velocities.txt"
+weights_vunet_dir: "/home/Documents/offline_deep_mpc/code/weights/vunet_sim.h5"
+weights_velocitynet_dir: "/home//Documents/offline_deep_mpc/code/weights/velocitynet_test.h5" 
+loss_file: "/home/Documents/offline_deep_mpc/Losses_velocitynet.txt"
+learning_rate: 0.0001
+num_epochs: 1000
+batch_size: 20
+num_iterations : 20
